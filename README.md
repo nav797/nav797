@@ -4,7 +4,7 @@
   <p>Just a little about me:</p>
     
   <ul>
-        <li>👀 <strong>Interests</strong>: I’m really into web development! I love creating cool websites and seeing how everything comes together. It's like putting together a puzzle, and I’m all about it.</li>
+        <li>👀 <strong>Interests</strong>: I’m really into web development! I love learning and creating cool websites and seeing how everything comes together. It's like putting together a puzzle!</li>
         <li>🌱 <strong>Learning Journey</strong>: Right now, I’m diving into HTML, CSS, and JavaScript. I’m enjoying the process of learning—every day. There’s definitely a lot to take in, but I'm having fun with it!</li>
         <li>🌟 <strong>Aspiring Web Developer</strong>: I just kicked off my journey to become a web developer. I’m excited to build my skills and create a portfolio of projects. Each little project is like a stepping stone, and I can't wait to see where it takes me.</li>
         <li>💡 <strong>Future Goals</strong>: I’m hoping to get into both front-end and back-end development eventually. I want to learn how to make sites that are not just pretty but also super user-friendly.</li>
