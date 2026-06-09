@@ -1,5 +1,5 @@
 <div>
-    <h1>👋 Hey there, I’m <a href="https://github.com/nav797" target="_blank">@nav797</a>!</h1>
+    <h1>👋 Hey there, I’m Navneet</a>!</h1>
     
   <p>Just a little about me:</p>
     
