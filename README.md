@@ -5,7 +5,7 @@
     
   <ul>
         <li>👀 <strong>Interests</strong>: I’m really into software development! I love learning and creating cool websites and seeing how everything comes together. It's like putting together a puzzle!</li>
-        <li>🌱 <strong>Learning Journey</strong>: Right now, I’m deepening my knowledge of programming fundamentals and exploring languages like Java and JavaScript. I’m enjoying the process of learning—every day. There’s definitely a lot to take in, but I'm having fun with it!</li>
+        
         <li>🌟 <strong>Aspiring Software Developer</strong>: I’m on a journey to become a versatile software developer. I’m excited to build my skills and create a portfolio of projects. Each little project is like a stepping stone, and I can't wait to see where it takes me.</li>
         <li>💡 <strong>Future Goals</strong>:  I aspire to excel in both front-end and back-end development and contribute to impactful projects!</li>
     </ul>
